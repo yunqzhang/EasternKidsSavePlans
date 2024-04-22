@@ -10,11 +10,12 @@ no societal outlets for emotional release,
 nor verbal support from parents.
 I want to create a free platform where everyone can build communities based on their interests.
 Here, you can make friends online or post to express your emotions.
------------All the code will be open-sourced, and you can define everything-------------------
+All the code will be open-sourced, and you can define everything-
+
 
 产品需求文档 (PRD) - 社区支持平台
-tl;dr
-开发一个社区驱动的平台，旨在为东亚普通人提供心理健康支持、交流和放松的场所。平台将允许用户创建个性化的小社区，分享视频、文章和讨论话题，同时引入专业心理咨询师提供专业支持。
+开发一个社区驱动的平台，旨在为普通人提供心理健康支持、交流和放松的场所。
+平台将允许用户创建个性化的小社区，分享视频、文章和讨论话题，同时引入专业心理咨询师提供专业支持。
 1. 问题陈述
 •	背景：普通人心理健康问题日益突出，公共心理支持资源不足。
 •	问题：缺乏一个集社区交流、专业支持与个性化体验于一体的在线平台。
